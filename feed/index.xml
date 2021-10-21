@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>(1) Kamera Mini Page</title>
+	<title>(1) Kamera Mini</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>BISA COD (BAYAR DI TEMPAT)</description>
-	<lastBuildDate>Thu, 21 Oct 2021 07:03:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Oct 2021 16:42:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
